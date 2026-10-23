@@ -1,0 +1,8 @@
+{
+  "name": "OmniSales POS \u0026 Inventaris Cloud",
+  "description": "Sistem sales \u0026 POS real-time multidevice, manajemen stok otomatis, rekapan laporan periodik, offline sync, notifikasi jatuh tempo, dan ekspor PDF/Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
